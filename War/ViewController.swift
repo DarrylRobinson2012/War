@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  War
 //
-//  Created by Darryl Robinson  on 10/17/17.
-//  Copyright © 2017 DrobEnterprises. All rights reserved.
+//  Created by Darryl Robinson  on 3/15/16.
+//  Copyright © 2016 DrobEnterprises. All rights reserved.
 //
 
 import UIKit
